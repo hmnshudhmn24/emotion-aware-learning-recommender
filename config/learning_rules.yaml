@@ -1,0 +1,12 @@
+happy:
+  difficulty: increase
+  pacing: fast
+sad:
+  difficulty: decrease
+  pacing: slow
+angry:
+  difficulty: decrease
+  pacing: slow
+neutral:
+  difficulty: same
+  pacing: normal

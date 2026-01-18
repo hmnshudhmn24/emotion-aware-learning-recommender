@@ -1,0 +1,8 @@
+python-dotenv
+pyyaml
+numpy
+pydantic
+librosa
+soundfile
+scikit-learn
+rich
