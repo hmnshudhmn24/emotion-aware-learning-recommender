@@ -1,10 +1,10 @@
-# 😊 Emotion-Aware Learning Recommender
+# Emotion-Aware Learning Recommender
 
 An **adaptive AI-powered learning system** that detects a learner’s **emotional state from text or voice input** and dynamically adjusts **content difficulty, learning pace, and recommendations** to improve engagement and learning outcomes.
 
 This project sits at the intersection of **Emotion AI + EdTech**, making it both innovative and highly practical.
 
----
+
 
 ## 🚀 Key Features
 
@@ -20,7 +20,7 @@ This project sits at the intersection of **Emotion AI + EdTech**, making it both
 - 🔒 Fully local & privacy-friendly
 - 🧩 Modular, extensible architecture
 
----
+
 
 ## 🧠 System Workflow
 
@@ -40,7 +40,7 @@ Personalized Content Recommendation
 Feedback & Continuous Adaptation
 ```
 
----
+
 
 ## 📁 Project Structure
 
@@ -55,7 +55,7 @@ emotion-aware-learning-recommender/
 └── README.md
 ```
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -65,7 +65,7 @@ emotion-aware-learning-recommender/
 - **Data Handling:** NumPy, YAML  
 - **Validation:** Pydantic  
 
----
+
 
 ## ⚙️ Installation
 
@@ -73,7 +73,7 @@ emotion-aware-learning-recommender/
 pip install -r requirements.txt
 ```
 
----
+
 
 ## ▶️ Usage
 
@@ -81,14 +81,14 @@ pip install -r requirements.txt
 python scripts/run_demo.py
 ```
 
----
+
 
 ## 📊 Output
 
 - 📄 Personalized learning recommendation report  
 - 🎯 Emotion-aware difficulty & pacing decisions  
 
----
+
 
 ## 🎯 Use Cases
 
@@ -97,16 +97,3 @@ python scripts/run_demo.py
 - Student engagement monitoring
 - Mental-health–aware learning tools
 
----
-
-## 🔮 Future Enhancements
-
-- Deep learning–based emotion classifiers
-- Hugging Face transformer models
-- Gradio / FastAPI web interface
-
----
-
-## 📜 License
-
-Apache License 2.0
